@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
-<h3 align="center">👋 Hey there! I'm Priyanshu Kumar, a passionate Computer Science student at VIT, diving deep into the world of code. 💻 Aspiring Full Stack Developer with a knack for the MERN stack and a love for problem-solving. 🚀 Competitive programmer by heart, always up for a coding challenge! Currently on the lookout for internship opportunities to contribute, learn, and grow. Let's connect and code something amazing together! 🌟</h3>
+<h3 align="center"> A passionate Computer Science student at VIT, diving deep into the world of code. 💻 Aspiring Full Stack Developer with a knack for the MERN stack and a love for problem-solving. 🚀 Competitive programmer by heart, always up for a coding challenge! Currently on the lookout for internship opportunities to contribute, learn, and grow. Let's connect and code something amazing together! 🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prnshjh&label=Profile%20views&color=0e75b6&style=flat" alt="prnshjh" /> </p>
 
