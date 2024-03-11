@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
 <h3 align="center">👋 Hey there! I'm Priyanshu Kumar, a passionate Computer Science student at VIT, diving deep into the world of code. 💻 Aspiring Full Stack Developer with a knack for the MERN stack and a love for problem-solving. 🚀 Competitive programmer by heart, always up for a coding challenge! Currently on the lookout for internship opportunities to contribute, learn, and grow. Let's connect and code something amazing together! 🌟</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prnshjh&label=Profile%20views&color=0e75b6&style=flat" alt="prnshjh" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prnshjh" alt="prnshjh" /></a> </p>
+
 - 🔭 I’m currently working on **Vtalk**
 
 - 🌱 I’m currently learning **DevOps,Databases**
@@ -15,8 +19,16 @@
 
 - ⚡ Fun fact **I write jokes**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/prnshjh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prnshjh" height="30" width="40" /></a>
+<a href="https://medium.com/@priyanshuwrites" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@priyanshuwrites" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/jhapriyanshu19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jhapriyanshu19" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/prnshjh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prnshjh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +37,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prnshjh&show_icons=true&locale=en&layout=compact" alt="prnshjh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prnshjh&show_icons=true&locale=en" alt="prnshjh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prnshjh&" alt="prnshjh" /></p>
