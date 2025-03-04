@@ -20,7 +20,7 @@
 - 🎯 Open to **collaborations & internship opportunities**.  
 
 📩 **Reach out to me:** **[prnshjh@gmail.com](mailto:prnshjh@gmail.com)**  
-📄 **Check my Resume:** **[View Here](https://drive.google.com/file/d/1MVextf-mgQpeNLAJFGyt705vfgtjozf9/view?usp=sharing)**  
+📄 **Check my Website:** **[View Here](https://priyanshukumarsite.vercel.app/)**  
 
 ---
 
