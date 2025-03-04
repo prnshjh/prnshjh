@@ -19,7 +19,7 @@
 - 💬 Ask me about **JavaScript, React, C++, and more!**
 - 🎯 Open to **collaborations & internship opportunities**.  
 
-📩 **Reach out to me:** **[prnshjh@gmail.com](mailto:prnshjh@gmail.com)**  
+📩 **Reach out to me:** **[✉️](mailto:prnshjh@gmail.com)**  
 📄 **Check my Website:** **[View Here](https://priyanshukumarsite.vercel.app/)**  
 
 ---
