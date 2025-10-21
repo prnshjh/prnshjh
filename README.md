@@ -69,3 +69,6 @@
 ---
 
 **🚀 Let's build something great together! Feel free to reach out and connect.**  
+
+
+[![An image of @prnsh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prnsh)](https://holopin.io/@prnsh)
